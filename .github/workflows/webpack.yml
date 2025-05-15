@@ -31,7 +31,7 @@ jobs:
         run: npm install
 
       - name: Build Next.js site
-        run: npm run build && npm run export
+        run: npm run build && npm run dev
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
