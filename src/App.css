@@ -1,0 +1,14 @@
+.header {
+  font-size: 30px;
+}
+.h-full {
+  height: 100vh;
+}
+
+.bg {
+  background-color: #1E1E1E; /* Darker Gray for main background */
+}
+
+.secondary-bg {
+  background-color: #282828; /* Slate Gray for secondary containers */
+}
